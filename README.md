@@ -1,3 +1,4 @@
-# This is explanation file for first time
+# This is explanation file for git first time
 
-to test the git first time
+## free for registration
+
